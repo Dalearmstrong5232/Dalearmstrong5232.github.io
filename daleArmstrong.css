@@ -1,0 +1,69 @@
+body {
+	background-image: url("https://unsplash.it/1800/1800?image=898");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;       
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+
+h1, h3 {
+	text-align: center;
+	font-family: "PT Sans Caption", sans-serif;
+	color: #45B39D;
+}
+
+
+.content {
+	padding-top: 25%;
+	text-align: center;
+    color: #45B39D;
+}
+
+.thumbNail {
+    height: 35px;
+    width: 35px;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.pContent {
+	text-align: center;
+	font-family: "PT Sans Caption", sans-serif;
+	color: #45B39D;
+	font-size: 16px;
+}
+
+.Link a {
+	color: #D4AC0D;
+}
+
+form {
+	text-align: center;
+}
+
+ol {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+button {
+	background: #7997A1;
+	color: white;
+}
+
+li a:hover{
+	 color: #D08FAB;
+}
+
+
+
+
