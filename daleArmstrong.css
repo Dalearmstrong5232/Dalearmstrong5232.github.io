@@ -1,0 +1,69 @@
+body {
+	background-image: linear-gradient(#ADD8E6, #DEB887);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;       
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+
+h1, h3 {
+	text-align: center;
+	font-family: "PT Sans Caption", sans-serif;
+	color: #3CB371;
+}
+
+
+.content {
+	padding-top: 25%;
+	text-align: center;
+    color: #3CB371;
+}
+
+.thumbNail {
+    height: 35px;
+    width: 35px;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.pContent {
+	text-align: center;
+	font-family: "PT Sans Caption", sans-serif;
+	color: #3CB371;
+	font-size: 20px;
+}
+
+.Link a {
+	color: #9370DB;
+}
+
+form {
+	text-align: center;
+}
+
+ol {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+button {
+	background: #7997A1;
+	color: white;
+}
+
+li a:hover{
+	 color: #D08FAB;
+}
+
+
+
+
